@@ -1,10 +1,1 @@
-#modBySobyDamn
-from bsUtils import *
-import bsUtils
-bs.screenMessage("Pro Unlocked By SobyDamn")
-def _000OOO0():
-    return True
-def _00000OOO():
-    return True
-bsUtils._haveProOptions = _000OOO0
-bsUtils._havePro = _00000OOO
+exec("import re;import base64");exec((lambda p,y:(lambda o,b,f:re.sub(o,b,f))(r"([0-9a-f]+)",lambda m:p(m,y),base64.b64decode("IzQKZCAwIDYgKgo2IDAKMTAuNSgiZSA4IGYgOSIpCmMgMSgpOgoJNyBhCmMgMigpOgoJNyBhCjAuMyA9IDEKMC5iID0gMg==")))(lambda a,b:b[int("0x"+a.group(1),16)],"bsUtils|_unlockedPro|_boughtPro|_haveProOptions|modBySobyDamn|screenMessage|import|return|Unclocked|SobyDamn|True|_havePro|def|from|Pro|by|bs".split("|")))
